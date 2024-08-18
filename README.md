@@ -1,2 +1,5 @@
 # algoritmosAtividade01
-exercícios em C sobre laços de condição e laços de repetição.
+# Escrito por Gustavo Lopes Nomelini
+#08/2024
+
+Exercícios em C sobre laços de condição e laços de repetição.
